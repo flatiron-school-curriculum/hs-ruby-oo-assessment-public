@@ -19,7 +19,7 @@ Once you get the tests passing make sure that the lab is forked onto your own ac
 
 **Check this by typing `git remote -v` in the terminal - you should see your github username in the remote address.** 
 
-Then push your work onto github and make a pull request so we can check out your mad skillz!
+Then push your work onto github and make a pull request so we can take a look at your work.
 
 
 
