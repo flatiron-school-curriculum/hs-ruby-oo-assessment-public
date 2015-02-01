@@ -4,10 +4,10 @@
 
 class Integer
   def is_between?(min, max)
-    # You will need to use they keyword `self` which refers to the number that this method is called on.
-    # In `8.is_between?(4,10)`, `self` would be equal to `8`. 
+    # You will need to use the keyword `self` in this method. Self refers to the Integer that this method will be called on. In `8.is_between?(4,10)`, `self` would be equal to `8`. 
+    # The number `self` is being compared to min and max. 
 
   end
 end
 
-# Try using your new Integer method by firing up irb or pry in your terminal and then loading your file by typing `load "3_is_between.rb"`. 
+# Try using your new Integer method by calling the is_between? method on several integers and running the file in your terminal. Hint: You'll want to puts your results so you can see them.
