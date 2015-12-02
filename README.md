@@ -25,3 +25,5 @@ Then push your work onto github and make a pull request so we can take a look at
 
 
 
+
+<a href='https://learn.co/lessons/hs-ruby-oo-assessment-public' data-visibility='hidden'>View this lesson on Learn.co</a>
